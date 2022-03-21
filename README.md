@@ -4,11 +4,15 @@
 
 ![](https://img.shields.io/badge/Fábio-Teste-green) ![](https://img.shields.io/badge/Compass-Uol-yellow)
 
+**[Aplicação em produção pela Vercel](https://frontend-compass-test-3vdwrzp7h-fabiodeandrade.vercel.app/)**
+
 ### 🎛️ Dependencias
  
 - [React Router](https://reactrouter.com/) - Para criação e gerenciamento de rotas
 - [Semantic UI React](https://react.semantic-ui.com/) - Para o html semantico gerado pelo react em páginas estáticas
 - [Create React App](https://create-react-app.dev/) - Para o ambiente já modelado com webpack, babel e testes (Jest, RTL).
+
+
 
  
 ### 🎯 Objetivo
