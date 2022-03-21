@@ -1,0 +1,12 @@
+.container__search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 85vh;
+}
+
+.container__search button {
+    background-color: var(--main-yellow);
+}

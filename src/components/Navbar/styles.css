@@ -1,0 +1,8 @@
+.navbar {
+  background-color: var(--main-gray);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.123);
+}
